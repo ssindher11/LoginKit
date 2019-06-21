@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginKit</string>
+    <string name="OAUTH_ID">-v2AD0pcO9pZrzcUzsGrfX5Y3gn29nCS6Lis8kd-NwM</string>
+
+    <string name="scope_displayname">https://auth.snapchat.com/oauth2/api/user.display_name</string>
+    <string name="scope_bitmoji">https://auth.snapchat.com/oauth2/api/user.bitmoji.avatar</string>
+</resources>

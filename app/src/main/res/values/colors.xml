@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFC00</color>
+    <color name="colorPrimaryDark">#F46200</color>
+    <color name="colorAccent">#9B55A0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!--Snapchat-Colors-->
+    <color name="colorApp">#FFFC00</color>
+    <color name="colorChat">#3CB2E2</color>
+    <color name="colorMemories">#E92754</color>
+    <color name="colorStories">#9B55A0</color>
+    <color name="colorNA">#03A588</color>
+</resources>
