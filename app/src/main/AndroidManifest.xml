@@ -63,9 +63,9 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="shreysindher"
+                    android:host="loginkitapp"
                     android:path="/auth"
-                    android:scheme="loginkitapp" />
+                    android:scheme="shreysindher" />
             </intent-filter>
         </activity>
     </application>
